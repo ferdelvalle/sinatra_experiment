@@ -13,7 +13,7 @@
 *This [Lynda][LYN] [Course][LYC]
 
 ### I'm also interested in [The Odin Project][TOP]'s Sinatra Tutorial.
-Though I do believe it has been archieved.
+Though it has been archieved and it's in their github [here][TOS].
 
 
 ### Tools
@@ -50,6 +50,7 @@ ferdelvalle@me.com
 [LYN]:https://www.lynda.com/
 [LYC]:https://www.lynda.com/Sinatra-tutorials/Learning-Sinatra/572782-2.html?ref=hackr.io
 [TOP]:https://www.theodinproject.com/
+[TOS]:https://github.com/TheOdinProject/curriculum/blob/master/rails_programming/old_lessons/sinatra/sinatra.md
 [RBL]:https://www.ruby-lang.org/en/
 [HTL]:https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 [CSS]:https://developer.mozilla.org/en-US/docs/Web/CSS
